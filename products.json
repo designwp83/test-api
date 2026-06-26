@@ -1,0 +1,106 @@
+{
+  "source": "TCE Instal ERP",
+  "updated_at": "2026-06-26T10:00:00+03:00",
+  "products": [
+    {
+      "sku": "INV-HYB-001",
+      "name": "Invertor Hibrid Huawei SUN2000-5KTL-M1 5kW",
+      "price": 3200.00,
+      "sale_price": 2950.00,
+      "stock_quantity": 8,
+      "stock_status": "instock",
+      "manage_stock": true,
+      "description": "Invertor hibrid monofazat 5kW, compatibil baterii LUNA2000, randament maxim 98.6%, monitorizare FusionSolar."
+    },
+    {
+      "sku": "INV-HYB-002",
+      "name": "Invertor Hibrid Huawei SUN2000-10KTL-M1 10kW",
+      "price": 5800.00,
+      "sale_price": null,
+      "stock_quantity": 4,
+      "stock_status": "instock",
+      "manage_stock": true,
+      "description": "Invertor hibrid monofazat 10kW, dual MPPT, compatibil sisteme off-grid și on-grid, protecție IP65."
+    },
+    {
+      "sku": "INV-STR-001",
+      "name": "Invertor String Fronius Primo 6.0-1 6kW",
+      "price": 2750.00,
+      "sale_price": 2500.00,
+      "stock_quantity": 12,
+      "stock_status": "instock",
+      "manage_stock": true,
+      "description": "Invertor string monofazat 6kW, randament 98.1%, comunicare WiFi/LAN, monitoring Fronius Solar.web."
+    },
+    {
+      "sku": "INV-STR-002",
+      "name": "Invertor String SMA Sunny Boy 5.0 5kW",
+      "price": 2900.00,
+      "sale_price": null,
+      "stock_quantity": 6,
+      "stock_status": "instock",
+      "manage_stock": true,
+      "description": "Invertor string monofazat 5kW, SMA ShadeFix integrat, randament 98.2%, OptiCool cooling inteligent."
+    },
+    {
+      "sku": "INV-STR-003",
+      "name": "Invertor String SMA Sunny Tripower 15000TL 15kW",
+      "price": 6400.00,
+      "sale_price": 5990.00,
+      "stock_quantity": 3,
+      "stock_status": "instock",
+      "manage_stock": true,
+      "description": "Invertor string trifazat 15kW, 3 MPPT independente, randament 98.4%, potrivit instalații comerciale."
+    },
+    {
+      "sku": "INV-HYB-003",
+      "name": "Invertor Hibrid Growatt SPH6000TL3 BH 6kW",
+      "price": 2650.00,
+      "sale_price": 2400.00,
+      "stock_quantity": 0,
+      "stock_status": "outofstock",
+      "manage_stock": true,
+      "description": "Invertor hibrid trifazat 6kW, compatibil baterii litiu, export zero, monitoring ShinePhone."
+    },
+    {
+      "sku": "INV-STR-004",
+      "name": "Invertor String Sungrow SG8RT 8kW",
+      "price": 3100.00,
+      "sale_price": null,
+      "stock_quantity": 9,
+      "stock_status": "instock",
+      "manage_stock": true,
+      "description": "Invertor string trifazat 8kW, 2 MPPT, randament 98.4%, compatibil iSolarCloud, IP66."
+    },
+    {
+      "sku": "INV-HYB-004",
+      "name": "Invertor Hibrid Sungrow SH10RT 10kW",
+      "price": 4900.00,
+      "sale_price": 4600.00,
+      "stock_quantity": 5,
+      "stock_status": "instock",
+      "manage_stock": true,
+      "description": "Invertor hibrid trifazat 10kW, backup integrat 100%, putere continuă 9kW, compatibil baterii SBR."
+    },
+    {
+      "sku": "INV-STR-005",
+      "name": "Invertor String Huawei SUN2000-20KTL-M3 20kW",
+      "price": 7200.00,
+      "sale_price": 6800.00,
+      "stock_quantity": 2,
+      "stock_status": "instock",
+      "manage_stock": true,
+      "description": "Invertor string trifazat 20kW, 4 MPPT, randament 98.6%, Smart Power Sensor inclus, IP66."
+    },
+    {
+      "sku": "INV-HYB-005",
+      "name": "Invertor Hibrid Deye SUN-12K-SG04LP3 12kW",
+      "price": 4200.00,
+      "sale_price": 3900.00,
+      "stock_quantity": 7,
+      "stock_status": "instock",
+      "manage_stock": true,
+      "description": "Invertor hibrid trifazat 12kW low voltage, compatibil baterii 48V, funcție UPS, randament 97.7%."
+    }
+  ]
+}
